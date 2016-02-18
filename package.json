@@ -1,0 +1,27 @@
+{
+  "Name": "myevents",
+  "version": "1.0.0",
+  "description": "hack around event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebbywiselyn/nodejs-events.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "ebbywiselyn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebbywiselyn/nodejs-events/issues"
+  },
+  "homepage": "https://github.com/ebbywiselyn/nodejs-events#readme",
+  "dependencies": {
+    "async": "1.5.2",
+    "sleep": "3.0.1"
+  }
+}
